@@ -15,3 +15,10 @@ The Universal Adaptive Hub defines the structural flow through which systems det
 The Structural Triad defines what must remain stable as those transformations occur.
 The unified framework describes adaptation as:
 the preservation of invariant structure across transformation.
+Published Papers
+The Universal Adaptive Hub
+Conceptual Architecture of Adaptive Systems
+DOI: https://doi.org/10.5281/zenodo.20122389
+The Structural Triad
+The Invariant Core of Adaptive Systems
+DOI: https://doi.org/10.5281/zenodo.20311342
