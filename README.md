@@ -16,6 +16,8 @@ The Structural Triad defines what must remain stable as those transformations oc
 The unified framework describes adaptation as:
 the preservation of invariant structure across transformation.
 Published Papers
+Unified Theory of Adaptive Structure DOI:
+https://doi.org/10.5281/zenodo.20327136
 The Universal Adaptive Hub
 Conceptual Architecture of Adaptive Systems
 DOI: https://doi.org/10.5281/zenodo.20122389
